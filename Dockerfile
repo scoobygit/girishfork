@@ -26,3 +26,5 @@ ENV API_KEY="12345-abcde-SECRET-98765"
 
 CMD ["bash","start.sh"]
 
+
+
